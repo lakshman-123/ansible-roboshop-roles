@@ -1,29 +1,29 @@
 [mongodb]
-mongodb.joindevops.online
+mongodb.lakshman.tech
 
 [catalogue]
-catalogue.joindevops.online
+catalogue.lakshman.tech
 
 [web]
-web.joindevops.online
+web.lakshman.tech
 
 [redis]
-redis.joindevops.online
+redis.lakshman.tech
 
 [user]
-user.joindevops.online
+user.lakshman.tech
 
 [cart]
-cart.joindevops.online
+cart.lakshman.tech
 
 [mysql]
-mysql.joindevops.online
+mysql.lakshman.tech
 
 [shipping]
-shipping.joindevops.online
+shipping.lakshman.tech
 
 [rabbitmq]
-rabbitmq.joindevops.online
+rabbitmq.lakshman.tech
 
 [payment]
-payment.joindevops.online
+payment.lakshman.tech
